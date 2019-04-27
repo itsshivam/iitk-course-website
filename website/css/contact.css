@@ -1,0 +1,75 @@
+h1	{
+		font-family : georgia;
+		font-style : italic;
+		font-size : 40px;
+		color : rgb(70,80,160);
+		text-align : center;
+		text-decoration : none;
+		padding-bottom : 30px;
+		text-shadow: 2px 2px 7px rgb(249,174,179);
+	}
+h1:hover	{
+		color : rgb(106,106,53);
+		text-decoration : none;
+		font-size : 43px;
+	}
+h2	{
+		font-family : georgia;
+		font-style : italic;
+		font-size : 27px;
+		color : rgb(74,77,174);
+		text-align : center;
+		text-decoration : none;
+		padding-bottom : 30px;
+		text-shadow: 2px 2px 7px rgb(249,174,179);
+	}
+h2:hover	{
+		color : rgb(106,106,53);
+		text-decoration : none;
+		font-size : 30px;
+	}
+h3	{
+		font-family : georgia;
+		font-style : italic;
+		font-size : 30px;
+		color : rgb(99,101,188);
+		text-align : center;
+		text-decoration : none;
+		padding-bottom : 30px;
+		text-shadow: 2px 2px 7px rgb(249,174,179);
+	}
+h3:hover	{
+		color : rgb(106,106,53);
+		text-decoration : none;
+		font-size : 33px;
+	}
+h6	{
+		font-family : georgia;
+		font-style : italic;
+		font-size : 30px;
+		color : rgb(94,96,187);
+		text-align : center;
+		text-decoration : none;
+		padding-bottom : 30px;
+		text-shadow: 2px 2px 7px rgb(249,174,179);
+	}
+h6:hover	{
+		color : rgb(106,106,53);
+		text-decoration : none;
+		font-size : 33px;
+	}
+h4	{
+		color : black;
+		font-size : 10px;
+		text-align : center;
+	}
+p	{
+		font-family : arial;
+		font-style : italic;
+		font-size : 20px;
+		color : red;
+		text-align : center;
+		text-decoration : none;
+		margin-top : 100px;
+		text-shadow: 2px 2px 7px rgb(249,174,179);
+	}

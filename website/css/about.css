@@ -1,0 +1,32 @@
+h1	{
+		font-family : georgia;
+		font-size : 40px;
+		color : rgb(116,116,58);
+		text-align : left;
+		text-decoration : none;
+		padding-bottom : 20px;
+		text-shadow: 2px 2px 7px rgb(249,174,179);
+	}
+h2	{
+		color : rgb(0,0,255);
+		text-align : right;
+		font-size : 24px;
+		font-family : "monotype corsiva";
+		text-decoration : none;
+		padding-bottom : 10px;
+		text-shadow: 2px 2px 7px rgb(249,174,179);
+	}
+h4	{
+		color : black;
+		font-size : 10px;
+		text-align : center;
+	}
+h1:hover	{
+		font-family : georgia;
+		font-size : 42px;
+		color : rgb(105,0,110);
+		text-align : left;
+		text-decoration : none;
+		padding-bottom : 20px;
+		text-shadow: 2px 2px 7px rgb(249,174,179);
+	}

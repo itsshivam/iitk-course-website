@@ -1,0 +1,53 @@
+p	{
+		font-family : "Franklin Gothic Book",aerial,"Segoe UI Emoji","script mt","monotype corsiva";
+		font-size : 17px;
+		color : black;
+		text-shadow: 2px 2px 7px rgb(249,174,179);
+	}
+h1	{
+		font-family : georgia;
+		font-size : 50px;
+		color : rgb(226,18,29);
+		text-align : center;
+		text-decoration : none;
+		padding-bottom : 60px;
+		text-shadow: 2px 2px 7px rgb(249,174,179);
+	}
+h2	{
+		color : rgb(27,16,226);
+		text-align : center;
+		font-size : 25px;
+		font-family : "times new roman";
+		text-decoration : none;
+		padding-bottom : 60px;
+	}
+h3	{
+		font-family :forte,"script mt";
+		font-size : 25px;
+		font-style : bold;
+		color : rgb(255,0,0);
+		text-align : center;
+		text-decoration : none;
+		padding-bottom : 30px;
+	}
+h3:hover	{
+		font-size : 27px;
+		color : rgb(0,0,255);
+		text-decoration : none;
+	}
+h4	{
+		color : black;
+		font-size : 10px;
+		text-align : center;
+	}
+h5	{
+		text-shadow: 1px 1px 1px rgb(191,25,78);
+	}
+h6	{
+		color : rgb(0,0,157);
+		text-align : center;
+	}
+h6:hover	{
+			color : rgb(128,64,0);
+			font-size : 14px;
+		}
